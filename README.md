@@ -5,7 +5,7 @@
    **- 👨🏽‍💻 Alumni [1337 School](https://1337.ma) | [42 Network](https://42.fr/en/network-42/)**
 
 - 📫 Don't be hesitate to contact me ! @anouaressaid60@gmail.com
-- [![Linkedin: imthepk](https://img.shields.io/badge/-Escanour-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anouar-essaid/)](https://www.linkedin.com/in/anouar-essaid/)
+- [![Linkedin: imthepk](https://img.shields.io/badge/-Aed-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anouar-essaid/)](https://www.linkedin.com/in/anouar-essaid/)
 
 <!--
 **Escanour/Escanour** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Escanour&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Escanour&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Escanour)](https://github.com/anuraghazra/github-readme-stats)
 
